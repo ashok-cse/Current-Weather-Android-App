@@ -30,7 +30,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
-    val apiKey: String = "08da328f47aa4dafb63132041230802"
+    val apiKey: String = "enter-your-api-key-for-weather-data"
     lateinit var cityNameEdt: EditText
     lateinit var cityName: String
     lateinit var searchIV: ImageView
